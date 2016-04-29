@@ -4,7 +4,7 @@ jQuery(function($) {
     /* Disqus */
     /* ============================================================ */
     
-    var disqus_shortname = 'franciscotheme';
+    var disqus_shortname = 'cybercerveau';
     
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
